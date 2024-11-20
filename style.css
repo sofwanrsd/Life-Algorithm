@@ -1,0 +1,27 @@
+body {
+    background-color: black;
+    color: white;
+    font-family: monospace;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+}
+
+#content {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    font-size: 24px;
+}
+
+#code {
+    text-align: left; 
+}
+
+.center {
+    text-align: center; 
+    margin-top: 20px; 
+}
